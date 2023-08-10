@@ -1,0 +1,21 @@
+body{
+    background-color:rgba(42, 202, 168, 0.88);
+    color: darkgreen;
+}
+
+#fg{
+   background-color: rgb(55, 173, 124);
+   border-radius:  20px; 
+   
+}
+
+#camera, #result{
+    border-radius: 20px;
+    border: 5px solid rgb(32, 211, 16);
+}
+
+#fg2{
+    border-radius: 60px;
+    width: 110px;
+    height:110px ;
+}
